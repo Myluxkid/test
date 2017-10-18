@@ -1,0 +1,19 @@
+{
+  "name": "sicaol-media-backend",
+  "version": "1.0.0",
+  "description": "api service",
+  "main": "Server.js",
+  "dependencies": {
+    "MD5": "^1.3.0",
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
+    "mysql": "^2.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "/",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
